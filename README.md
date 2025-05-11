@@ -27,7 +27,7 @@ _Stay tuned — coming soon._
   _Gender Differences but not Gender Biases Influence Trustworthiness Judgement_  
   [Australasian Experimental Psychology Conference and Asia Pacific Conference on Vision Joint Meeting, Sydney, Australia](https://doi.org/10.17605/osf.io/f5t7d)
 
-- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.*  
+- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.*  (May 17).
   _Identifying Distrust from Facial Expressions by Facial Action Coding System_  
   [Vision Sciences Society, St. Pete Beach, Florida, USA](https://doi.org/10.17605/osf.io/k6ecs)
 
