@@ -1,6 +1,6 @@
 # 👋 Welcome to My Personal Site
 
-I’m Gabriel Rong Yang Lau — a psychology researcher exploring the intersection of human cognition, trust, and technology.
+I am Gabriel, a Concurrent Degree Programme graduate from the National University of Singapore, where I completed both my Bachelor of Social Sciences (Honours with Highest Distinction) and Master of Social Sciences. I am proficient in handling complex datasets using advanced statistical methods with seven years of research experience in Social, Cognitive, and Educational Psychology labs at the National University of Singapore and Nanyang Technological University. 
 
 ---
 
@@ -8,9 +8,9 @@ I’m Gabriel Rong Yang Lau — a psychology researcher exploring the intersecti
 
 My research lies at the intersection of **Social, Cognitive, and Health Psychology**, with a focus on:
 
-- 🤖 **AI in Psychology** – Studying how artificial intelligence intersects with human judgment.
-- 📱 **Media Credibility & Trust Prediction** – Understanding how people evaluate truth and trust online.
-- 🌱 **Well-being & Flourishing** – Exploring psychological drivers of meaningful human thriving.
+- 🤖 **AI in Psychology** 
+- 📱 **Media Credibility & Trust Prediction**
+- 🌱 **Well-being & Flourishing**
 
 ---
 
@@ -23,24 +23,24 @@ _Stay tuned — coming soon._
 ## 🔬 Conference Presentations
 
 **2025**
-- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Chiam, R. W. Q., Ng, B. C., & Xu, H.** (June).  
+- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Chiam, R. W. Q., Ng, B. C., & Xu, H.* (June).  
   _Gender Differences but not Gender Biases Influence Trustworthiness Judgement_  
   [Australasian Experimental Psychology Conference and Asia Pacific Conference on Vision Joint Meeting, Sydney, Australia](https://doi.org/10.17605/osf.io/f5t7d)
 
-- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.**  
+- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.*  
   _Identifying Distrust from Facial Expressions by Facial Action Coding System_  
   [Vision Sciences Society, St. Pete Beach, Florida, USA](https://doi.org/10.17605/osf.io/k6ecs)
 
 **2024**
-- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.** (Oct 6).  
+- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.* (Oct 6).  
   _Effects of Social Cues on Trust in Social Media Content_  
   [Society for Neuroscience Annual Meeting, Chicago, Illinois, USA](https://doi.org/10.17605/osf.io/8efm5)
 
-- **Zhao, Z.**, Sun, S., Ng, N. Z. E., **Lau, G. R.**, Ng, B. C., & Xu, H.** (July 11).  
+- Zhao, Z., Sun, S., Ng, N. Z. E., **Lau, G. R.**, Ng, B. C., & Xu, H.* (July 11).  
   _Trustworthiness Judgement in Short Videos is Influenced by Speakers’ Facial Emotion and Attire_  
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/dfgcu)
 
-- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.** (July 10).  
+- **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.* (July 10).  
   _Predicting Trust toward Media Content by Eye Movement_  
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/5fnyr)
 
