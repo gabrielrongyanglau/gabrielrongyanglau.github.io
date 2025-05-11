@@ -40,9 +40,21 @@ _Stay tuned — coming soon._
   _Trustworthiness Judgement in Short Videos is Influenced by Speakers’ Facial Emotion and Attire_  
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/dfgcu)
 
+<p align="center">
+  <img src="APCV%202024%20Poster.jpeg" alt="APCV 2024 Poster" width="70%" />
+  <br/>
+  <em>My conference poster presented at the Asia Pacific Conference on Vision 2024</em>
+</p>
+
 - **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.* (July 10).  
   _Predicting Trust toward Media Content by Eye Movement_  
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/5fnyr)
+
+<p align="center">
+  <img src="APCV%202024%20Slide%201.jpeg" alt="APCV 2024 Slide" width="70%" />
+  <br/>
+  <em>Slide from my talk on eye-tracking and trustworthiness at APCV 2024</em>
+</p>
 
 ---
 
