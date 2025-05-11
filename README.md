@@ -36,7 +36,7 @@ _Stay tuned — coming soon._
   _Effects of Social Cues on Trust in Social Media Content_  
   [Society for Neuroscience Annual Meeting, Chicago, Illinois, USA](https://doi.org/10.17605/osf.io/8efm5)
 
-  <p align="center">
+<p align="center">
   <img src="Images/SfN%202024%20Poster.jpg" alt="SfN 2024 Poster" width="50%" />
   <br/>
   <em>Poster presented at the Society for Neuroscience Annual Meeting 2024</em>
@@ -47,9 +47,9 @@ _Stay tuned — coming soon._
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/dfgcu)
 
 <p align="center">
-  <img src="APCV%202024%20Poster.jpeg" alt="APCV 2024 Poster" width="70%" />
+  <img src="Images/APCV%202024%20Poster.jpeg" alt="APCV 2024 Poster" width="50%" />
   <br/>
-  <em>My conference poster presented at the Asia Pacific Conference on Vision 2024</em>
+  <em>Poster presented at the Asia Pacific Conference on Vision 2024</em>
 </p>
 
 - **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.* (July 10).  
@@ -57,9 +57,9 @@ _Stay tuned — coming soon._
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/5fnyr)
 
 <p align="center">
-  <img src="APCV%202024%20Slide%201.jpeg" alt="APCV 2024 Slide" width="70%" />
+  <img src="Images/APCV%202024%20Slide%201.jpeg" alt="APCV 2024 Slide 1" width="50%" />
   <br/>
-  <em>Slide from my talk on eye-tracking and trustworthiness at APCV 2024</em>
+  <em>Slides presented at the Asia Pacific Conference on Vision 2024</em>
 </p>
 
 ---
