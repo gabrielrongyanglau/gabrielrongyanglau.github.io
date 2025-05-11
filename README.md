@@ -39,7 +39,7 @@ _Stay tuned — coming soon._
 <p align="center">
   <img src="Images/SfN%202024%20Poster.jpg" alt="SfN 2024 Poster" width="30%" />
   <br/>
-  <em>Poster presented at the Society for Neuroscience Annual Meeting 2024</em>
+  <em>Poster presentation at the Society for Neuroscience Annual Meeting 2024</em>
 </p>
 
 - Zhao, Z., Sun, S., Ng, N. Z. E., **Lau, G. R.**, Ng, B. C., & Xu, H.* (July 11).  
@@ -49,7 +49,7 @@ _Stay tuned — coming soon._
 <p align="center">
   <img src="Images/APCV%202024%20Poster.jpeg" alt="APCV 2024 Poster" width="30%" />
   <br/>
-  <em>Poster presented at the Asia Pacific Conference on Vision 2024</em>
+  <em>Poster presentation at the Asia Pacific Conference on Vision 2024</em>
 </p>
 
 - **Lau, G. R.**, Zhao, Z., Sun, S., Ng, N. Z. E., Ng, B. C., & Xu, H.* (July 10).  
@@ -59,7 +59,7 @@ _Stay tuned — coming soon._
 <p align="center">
   <img src="Images/APCV%202024%20Slide%201.jpeg" alt="APCV 2024 Slide 1" width="35%" />
   <br/>
-  <em>Slides presented at the Asia Pacific Conference on Vision 2024</em>
+  <em>Slide Presentation at the Asia Pacific Conference on Vision 2024</em>
 </p>
 
 ---
@@ -74,7 +74,9 @@ _Stay tuned — coming soon._
 
 ---
 
-📧 **Email:** gabriel.laury@ntu.edu.sg
+📧 **Email:**  
+gabriel.laury@ntu.edu.sg  
+gabriel.lau@u.nus.edu
 
 ---
 
