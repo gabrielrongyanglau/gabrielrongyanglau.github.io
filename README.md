@@ -36,6 +36,12 @@ _Stay tuned — coming soon._
   _Effects of Social Cues on Trust in Social Media Content_  
   [Society for Neuroscience Annual Meeting, Chicago, Illinois, USA](https://doi.org/10.17605/osf.io/8efm5)
 
+  <p align="center">
+  <img src="Images/SfN%202024%20Poster.jpg" alt="SfN 2024 Poster" width="50%" />
+  <br/>
+  <em>Poster presented at the Society for Neuroscience Annual Meeting 2024</em>
+</p>
+
 - Zhao, Z., Sun, S., Ng, N. Z. E., **Lau, G. R.**, Ng, B. C., & Xu, H.* (July 11).  
   _Trustworthiness Judgement in Short Videos is Influenced by Speakers’ Facial Emotion and Attire_  
   [Asia Pacific Conference on Vision, Singapore](https://doi.org/10.17605/osf.io/dfgcu)
