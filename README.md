@@ -72,6 +72,8 @@ _Stay tuned — coming soon._
 - 🗂️ [OSF](https://osf.io/3ch5y)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriellry/)
 
+---
+
 📧 **Email:** gabriel.laury@ntu.edu.sg
 
 ---
