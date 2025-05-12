@@ -39,7 +39,7 @@ nav a:hover {
 h2 {
   font-size: 1.6rem;
   margin-top: 1.5rem;
-  margin-bottom: 0.3rem; /* Reduced bottom margin for tighter spacing */
+  margin-bottom: 0.3rem; /* Tight spacing below section headings */
   color: #003366;
 }
 h3 {
@@ -106,9 +106,12 @@ li {
   margin-left: 1rem;
 }
 
-/* Presentations */
+/* Presentations and Publications */
 .presentation {
   margin-bottom: 2rem;
+}
+.journal-article + .presentation {
+  margin-top: 1rem; /* spacing after author note only */
 }
 
 /* Corresponding author note */
@@ -117,7 +120,7 @@ li {
   font-style: italic;
   color: #444;
   margin-top: 0;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0;
 }
 
 /* Images */
