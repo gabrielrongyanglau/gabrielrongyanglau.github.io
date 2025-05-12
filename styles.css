@@ -38,7 +38,8 @@ nav a:hover {
 /* Headings */
 h2 {
   font-size: 1.6rem;
-  margin: 1.5rem 0 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.3rem; /* Reduced bottom margin for tighter spacing */
   color: #003366;
 }
 h3 {
@@ -105,18 +106,18 @@ li {
   margin-left: 1rem;
 }
 
+/* Presentations */
+.presentation {
+  margin-bottom: 2rem;
+}
+
 /* Corresponding author note */
 .corresponding-author-note {
   font-size: 0.85rem;
   font-style: italic;
   color: #444;
-  margin-top: -1rem;
-  margin-bottom: 1.5rem;
-}
-
-/* Presentations */
-.presentation {
-  margin-bottom: 2rem;
+  margin-top: 0;
+  margin-bottom: 0.8rem;
 }
 
 /* Images */
@@ -124,7 +125,7 @@ img {
   display: block;
   margin-top: 1rem;
   border-radius: 6px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 /* Center images within figure */
