@@ -29,11 +29,11 @@ jobs:
       - name: Upload static files
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'  # or 'public' if your site lives there
+          path: '.'
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Show Page URL
-        run: echo "Deployed to: ${{ steps.deployment.outputs.page_url }}"
+      - name: Echo URL
+        run: echo "Live at ${{ steps.deployment.outputs.page_url }}"
