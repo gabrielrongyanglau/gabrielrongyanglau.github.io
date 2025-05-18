@@ -47,7 +47,7 @@ h3 {
   font-size: 1.3rem;
   margin-top: 1.2rem;
   color: #004080;
-  text-align: center; /* Center-aligns "2025", "2024" */
+  text-align: center;
 }
 
 /* Lists */
@@ -61,26 +61,23 @@ li {
   margin-bottom: 0.4rem;
 }
 
-/* About Me section with image */
+/* About Me section with image wrap */
 .about-me {
   margin-bottom: 2rem;
 }
 .about-me-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 1.5rem;
-  margin-top: 0;
+  overflow: auto; /* Enables container to wrap floated image */
 }
-.about-me-content img {
+.profile-pic {
+  float: left;
   width: 220px;
   height: auto;
+  margin: 0 1.5rem 1rem 0;
   border-radius: 60px;
   object-fit: cover;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  margin-top: 0;
 }
 .about-me-content p {
-  flex: 1;
   margin-top: 0;
 }
 
