@@ -66,10 +66,11 @@ li {
   margin-bottom: 2rem;
 }
 .about-me-content {
-  overflow: auto; /* Enables container to wrap floated image */
+  overflow: auto;
 }
 .profile-pic {
   float: left;
+  display: inline; /* overrides global img rule */
   width: 220px;
   height: auto;
   margin: 0 1.5rem 1rem 0;
@@ -79,6 +80,7 @@ li {
 }
 .about-me-content p {
   margin-top: 0;
+  text-align: justify;
 }
 
 /* Research Experience */
@@ -121,7 +123,7 @@ li {
   margin-bottom: 0.2rem 0;
 }
 
-/* Images */
+/* Global image style (non-profile) */
 img {
   display: block;
   margin-top: 1rem;
@@ -151,4 +153,33 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+
+/* --------------------------------------
+   📱 Responsive: Stack image + text on mobile
+----------------------------------------- */
+@media (max-width: 600px) {
+  .profile-pic {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
+
+  .about-me-content {
+    text-align: center;
+  }
+
+  .about-me-content p {
+    text-align: justify;
+  }
+
+  .research-experience .title-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .research-experience .dates {
+    margin-left: 0;
+    margin-top: 0.3rem;
+  }
 }
